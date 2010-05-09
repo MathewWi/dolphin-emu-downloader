@@ -16,7 +16,7 @@ type
 
 than type:
 
-cd dd && perl d*
+=== cd dd && perl dolphindownloader.pl ===
 
 AND WHAT DO YOU KNOW?? IT WORKS!
 
