@@ -9,10 +9,7 @@ here is how to use it:
 --------FOR people with brains---------
 
 to use dolphin-emu-downloader simply open terminal, 
-type: 
-
-svn co 
-http://dolphin-emu-downloader.googlecode.com/svn/trunk dd
+type: svn co http://dolphin-emu-downloader.googlecode.com/svn/trunk dd
 
 than type:
 
