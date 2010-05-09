@@ -1,0 +1,4 @@
+#!/bin/bash
+cd dolphin-emu
+scons wxconfig=/usr/local/bin/wx-config osx=64cocoa wxgl=true
+open  /Binary/Dar*/Dolphin.app
