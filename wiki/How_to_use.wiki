@@ -12,7 +12,7 @@ to use dolphin-emu-downloader simply open terminal,
 type                                                                                      
 
   
-svn checkout http://dolphin-emu-downloader.googlecode.com/svn/trunk dd
+== svn co http://dolphin-emu-downloader.googlecode.com/svn/trunk dd ==
 
 than type:
 
