@@ -5,18 +5,38 @@
 
 dolphin-downloader is somewhat simple to use.
 here is how to use it:
+-----------------Stable download-------------------
+ok first download the archive from the downloads page! (downloads currently down)
+click on it to extract it,
+open terminal,
+navigate to the extraction directory (dolphin downloader or dolphin*),
+and execute =perl dolphindownloader.pl=
 
---------FOR people with brains---------
+
+
+Thanks for your support!
+
+
+
+
+
+
+
+
+
+
+
+--------Svn compile (svn not yet functional)---------
 
 to use dolphin-emu-downloader simply open terminal, 
 type                                                                                      
 
   
-== svn co http://dolphin-emu-downloader.googlecode.com/svn/trunk dd ==
+  Option 2.a    == svn co http://dolphin-emu-downloader.googlecode.com/svn/trunk dd ==
 
 than type:
 
-=== cd dd && perl dolphindown.pl ===
+Command 2 === cd dd && perl dolphindown.pl ===
 
 AND WHAT DO YOU KNOW?? IT WORKS!
 
