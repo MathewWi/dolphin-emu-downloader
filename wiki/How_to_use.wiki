@@ -10,7 +10,9 @@ ok first download the archive from the downloads page! (downloads currently down
 click on it to extract it,
 open terminal,
 navigate to the extraction directory (dolphin downloader or dolphin*),
-and execute =perl dolphindownloader.pl=
+and execute 
+
+== perl dolphindown.pl   ==
 
 
 
