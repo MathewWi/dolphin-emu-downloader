@@ -5,8 +5,8 @@
 
 dolphin-downloader is somewhat simple to use.
 here is how to use it:
------------------Stable download-------------------
-ok first download the archive from the downloads page! (downloads currently down)
+=== -----------------Stable download------------------- ===
+ok first download a stable/Recommended archive from the downloads page!
 click on it to extract it,
 open terminal,
 navigate to the extraction directory (dolphin downloader or dolphin*),
