@@ -1,0 +1,7 @@
+#labels SVN,Help
+SVN development:
+
+sorry but i cant use svn..... i uploaded one rev to the site but it is not functional..
+
+i have a functional version but i cant update svn revision.
+Any help?
