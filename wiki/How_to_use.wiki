@@ -14,6 +14,8 @@ and execute
 
 == perl dolphindown.pl   ==
 
+in a terminal window.
+
 
 
 Thanks for your support!
