@@ -9,7 +9,7 @@ here is how to use it:
 ok first download THE NEWEST stable/Recommended archive from the downloads page!
 click on it to extract it,
 open terminal,
-navigate to the extraction directory (dolphin downloader or dolphin*),
+navigate to the extraction directory (dolphindownloader or dolphin*),
 and execute 
 
 == perl dolphindown.pl   ==
