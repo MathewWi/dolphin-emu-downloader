@@ -20,32 +20,4 @@ in a terminal window.
 
 Thanks for your support!
 
-
-
-
-
-
-
-
-
-
-
---------Svn compile (svn not yet functional)---------
-
-to use dolphin-emu-downloader simply open terminal, 
-type                                                                                      
-
-  
-  Option 2.a    == svn co http://dolphin-emu-downloader.googlecode.com/svn/trunk dd ==
-
-than type:
-
-Command 2 === cd dd && perl dolphindown.pl ===
-
-AND WHAT DO YOU KNOW?? IT WORKS!
-
-and if it dosen't please report an in the tab ^
-                                              |
-
-= Thanks =
-The real award goes to the dolphin-emu team for their great work and great OSX implementation!
+If you need more specific instructions feel free to ask me, i am on the forums (http://forums.dolphin-emulator.com ) as shawnanastasio, or send me an e-mail!
