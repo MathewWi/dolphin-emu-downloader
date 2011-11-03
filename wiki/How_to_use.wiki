@@ -8,13 +8,10 @@ here is how to use it:
 === -----------------Stable download------------------- ===
 ok first download THE NEWEST stable/Recommended archive from the downloads page!
 click on it to extract it,
-open terminal,
-navigate to the extraction directory (dolphindownloader or dolphin*),
-and execute 
+open terminal, type "perl " (with a space after perl)
+then finally drag dolphindown.pl from the extracted from the download into the terminal window and press the enter or return key..
 
-== perl dolphindown.pl   ==
 
-in a terminal window.
 
 
 
