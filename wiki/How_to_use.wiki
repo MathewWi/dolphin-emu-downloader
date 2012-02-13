@@ -1,20 +1,20 @@
 #labels help,usage
 #Instructions
 
-= Here we go! =
+As of now, dolphin-emu-downloader can be a bit hard to use. Don't worry, it's still possible though!
 
-dolphin-downloader is somewhat simple to use.
-here is how to use it:
-=== -----------------Stable download------------------- ===
-ok first download THE NEWEST stable/Recommended archive from the downloads page!
-click on it to extract it,
-open terminal, type "perl " (with a space after perl)
-then finally drag dolphindown.pl from the extracted from the download into the terminal window and press the enter or return key..
+Step 1. Download from the Downloads page
 
+Step 2. If your browser did not already do this, Extract the zip file.
 
+Step 3. Open Finder and open Applications>Utilities>Terminal, or search for Terminal in Spotlight
 
+Step 4. Navigate to the directory you extracted dolphin-downloader in terminal.
+Ex. If you extracted in your download Folder you would execute the following commands in Terminal (In Order):
 
+cd Downloads
+cd dolphin-(Press tab to complete folder name)
 
-Thanks for your support!
+Step 5. Type "perl dolphin*.pl" (No quotes). If this does not work, type "cd d* && perl dolphin*.pl" (No quotes)
 
-If you need more specific instructions feel free to ask me, i am on the forums (http://forums.dolphin-emulator.com ) as shawnanastasio, or send me an e-mail!
+Step 6. Enjoy!! Sorry this was so hard, I am working on a way to make it easier to use. 
